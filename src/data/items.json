@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Thrustmaster TCA Captain Pack Airbus Edition",
+    "name": "Thrustmaster Pack Airbus Ed",
     "price": 210.99,
     "description": "njedn ñlorem",
     "imgUrl": "/assets/imgs/airbusJostick.jpg"
@@ -15,14 +15,14 @@
   },
   {
     "id": 3,
-    "name": "OIVO Switch VR Gafas compatibles con Nintendo Switch/OLED",
+    "name": "OIVO Switch VR  Nintendo ",
     "price": 34.5,
     "description": "njedn ñlorem",
     "imgUrl": "/assets/imgs/Oivo-VR.jpg"
   },
   {
     "id": 4,
-    "name": "Oculus Rift",
+    "name": "Oculus Rift VR Packcs",
     "price": 1220,
     "description": "njedn ñlorem",
     "imgUrl": "/assets/imgs/Oculus_Rift.jpg"
