@@ -8,6 +8,7 @@ import {
 import { useShoppingCart } from "../context/ShoppingCartContext";
 import { formatCurrency } from "../utilities/formatCoin";
 import { CartItem } from "./CartItem";
+import storeItems from "../data/items.json";
 
 type ShoppingCartProps = {
   isOpen: boolean;
@@ -16,9 +17,9 @@ type ShoppingCartProps = {
 export function ShoppingCart({ isOpen }: ShoppingCartProps) {
   const { closeCart, cartItems } = useShoppingCart();
   return (
-    <Offcanvas show={isOpen} onHide="closeCart" placement="end">
+    <Offcanvas show={isOpen} onHide={closeCart} placement="end">
       <Offcanvas.Header closeButton>
-        <Offcanvas.Title> Shopping Cart</Offcanvas.Title>
+        <Offcanvas.Title> Cart</Offcanvas.Title>
         <Offcanvas.Body>
           <Stack gap={3}>
             {cartItems.map((item) => (
