@@ -47,7 +47,7 @@ export const StoreItem = ({
               + Add to Cart
             </Button>
           ) : (
-            <div className="d-flex align-item-center flex-column justify-content-center">
+            <div className="d-flex align-items-center flex-column justify-content-center">
               <div
                 className="d-flex align-item-center
                 justify-content-center"
