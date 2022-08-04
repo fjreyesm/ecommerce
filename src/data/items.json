@@ -10,35 +10,35 @@
     "id": 2,
     "name": "VR HTC VIVE PRO",
     "price": 1238.99,
-    "description": "njedn ñlorem",
-    "imgUrl": "https://imgur.com/XRAKd24"
+    "description": "VR HTC VIVE PRO",
+    "imgUrl": "https://i.imgur.com/XRAKd24.jpg"
   },
   {
     "id": 3,
     "name": "OIVO Switch VR  Nintendo ",
     "price": 34.5,
-    "description": "njedn ñlorem",
-    "imgUrl": "https://imgur.com/fW719xt"
+    "description": "OIVO Switch VR  Nintendo",
+    "imgUrl": "https://i.imgur.com/fW719xt.jpg"
   },
   {
     "id": 4,
     "name": "Oculus Rift VR Packcs",
     "price": 1220,
-    "description": "njedn ñlorem",
-    "imgUrl": "https://imgur.com/fSrZwMq"
+    "description": "The best Oculus Riftpack",
+    "imgUrl": "https://i.imgur.com/fSrZwMq.jpg"
   },
   {
     "id": 5,
     "name": "VR Shooter",
     "price": 49.99,
     "description": "Best VR Shooter Game For The Oculus",
-    "imgUrl": "https://imgur.com/fqb10Dw"
+    "imgUrl": "https://i.imgur.com/fqb10Dw.jpg"
   },
   {
     "id": 6,
     "name": "Beat Saber",
     "price": 27.49,
     "description": "Crossmeta Dual Handles Grips Lightsabers for Oculus Quest 2",
-    "imgUrl": "https://imgur.com/Zfx8TkY"
+    "imgUrl": "https://i.imgur.com/Zfx8TkY.jpg"
   }
 ]
