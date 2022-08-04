@@ -1,13 +1,36 @@
 export const Contact = () => {
   return (
     <div>
-      <h1>Wellcome to VR Store</h1>
-      <img src="https://i.imgur.com/9BdZGoz.jpg" alt="foto portada" />
-      <p>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic optio
-        excepturi beatae debitis minima velit sit suscipit commodi quasi ut non
-        qui iste sunt, quidem sequi dicta similique a alias?
-      </p>
+      <h1>Contact us</h1>
+
+      <form>
+        <div className="form-group">
+          <label htmlFor="name">Name</label>
+          <input
+            type="text"
+            className="form-control"
+            id="name"
+            placeholder="Enter name"
+          />
+          <label htmlFor="email">Email</label>
+          <input
+            type="email"
+            className="form-control"
+            id="email"
+            placeholder="Enter email"
+          />
+          <label htmlFor="message">Message</label>
+          <input
+            type="text"
+            className="form-control"
+            id="message"
+            placeholder="Enter message"
+          />
+          <button type="submit" className="btn btn-primary mt-3">
+            Submit
+          </button>
+        </div>
+      </form>
     </div>
   );
 };
