@@ -4,7 +4,7 @@
     "name": "Thrustmaster Pack Airbus Ed",
     "price": 210.99,
     "description": "Play your favorite flight simulator with a pro Joystick",
-    "imgUrl": "/assets/imgs/airbusJostick.jpg"
+    "imgUrl": "https://i.imgur.com/wMFjqSh.jpg"
   },
   {
     "id": 2,
@@ -32,13 +32,13 @@
     "name": "xxxxx",
     "price": 0.99,
     "description": "njedn ñlorem",
-    "imgUrl": "assets/imgs/aa.jpg"
+    "imgUrl": "https://i.imgur.com/wMFjqSh.jpg"
   },
   {
     "id": 6,
     "name": "yyyyy",
     "price": 0.99,
     "description": "njedn ñlorem",
-    "imgUrl": "/imgs/car.jpg"
+    "imgUrl": "https://i.imgur.com/wMFjqSh.jpg"
   }
 ]
